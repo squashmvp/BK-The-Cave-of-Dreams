@@ -1,0 +1,78 @@
+Hub(10 Jiggies, 5 Tokens, 2 Honeycombs)
+  Jiggies
+    Behind the Gate Flag: 32
+    In the Tiny Hole Flag: 33
+    Beside the Finger Flag: 34
+    Termite Climb Flag: 37
+    Slippery Platform Flag: 3a
+    Wooden ledge in the Valley Flag: 35
+    Wooden Shelf Flag: 38
+    Within the Hive Flag: 39
+    Soaked Stump Flag: 36
+    The Chair Flag: 3b
+
+  Mumbo Token
+    Entrance Flag: 118
+    RC Entrance Flag: 119
+    GP Entrance Flag: 11a
+    WB Entrance Flag: 11b
+    The Chair Flag: 11c
+
+  Honeycombs
+    Entrance Bridge Flag: 0
+    Within Dead the Leaves Flag: 1
+
+Robo - City(20 Jiggies, 6 Honeycombs)
+  Jiggies
+    Main
+      Ride the Carpet Flag: 51
+      Dilapidated Building Flag: 54
+      Drilled Underground Flag: 56
+      Within a Drill Flag: 55 Must Change to 5c? Or 64
+      Smiley Face Flag: 53
+      Robot’s Leg Flag: 52
+    Real Slums
+      The Ledge 59
+      Escape! 58
+    Fake Slums
+      Unwelcome Guests Flag: ???(Jinjo)
+      Bridge Entrance Flag: 57
+    Oil Refinery
+      Products Flag: 5b
+      Conveyor Belt Flag: 5a
+      Cargo Flag: 5c
+    Carried Up
+      Mesmerized Bot Flag: 5d
+      Climb Eraser Flag: 5e
+    Underground
+      Death of a King Flag: 60
+    Shrine
+      Treasure Flag: 5f
+    Highrise
+      Honey’s Treasure Flag: 61
+    Inside Robo
+      Elevator Flag: 62
+      The Good Leg Flag: 63
+  Honey Combs
+    Drilled Gold(Main) Flag: 66
+    Italy Slick(Oil Refinery) Flag: 67
+    Eraser’s Blind Spot(Carried Up) Flag: 69
+    Unmaintained Leg (Inside Robo) Flag: 6b
+    Extra Room (Underground) Flag: 68
+    Back of the Room (Highrise) Flag: 6a
+
+Grand Piano (2 Honeycombs)
+  Honeycombs
+    PF - End of Loop Flag: 6c
+    SS - Behind Grass-Covered Pillar Flag: 64
+
+What Boat (5 Mumbo Tokens, 2 Honeycombs)
+  Mumbo Tokens
+    Underwater Flag: fe
+    On the Tree Flag: fb
+    Behind the House Flag: fc
+    Guarded by Frog Flag: fa
+    Climb the Cliff Flag: fd
+  Honeycomb
+    Over the Pond Flag: 75
+    Guarded by Nature Flag: 74

@@ -1,0 +1,136 @@
+Level - Entry Point | Name of Entry Point
+  Hub World
+    Entrance → GL Floor 6
+      Enter – EP 1 | GL FP area entrance
+      Tunnel - EP 2, | GL Floor 6(450 note door entrance)
+      Walrus(Out) - EP 4 | CCW Winter OUTSIDE(Second one on list)
+      Walrus - EP 5, | GL grunty's mouth (approach…)
+
+    Tunnel → Freezeezy Peak
+      Enter - EP 1 | FP entrance (warp disc)
+      RC Area - EP 7 | FP Outside Mumbo’s Skull
+      GP Area & GP Exit - EP 6 | FP Waza Cave OUTSIDE
+      WB Area & Bee - EP 8 | Boggy’s Igloo Exit
+      End - EP 9 | FP Outside Christmas Tree
+
+    RC Enter → GL Floor 4
+      Enter - EP 2 | GL - Floor 4 Entrance
+      RC Warp - EP 3 | GL Entrance to BGS area
+      Termite - EP 1 | GL Grunty statue in middle of room - 260 note door entrance
+
+    GP Enter → GL Floor 3
+      Walrus - EP 1 | GL Floor 2 entrance
+      Croc - EP 5 | GL Floor 3 Note Door
+      Enter - EP 2 | GL Floor 2 Pipe entrance
+      Exit - EP 4 | GL Floor 3 Pipe Room Entrance
+      GP Warp - EP 3 | GL - Floor 3 TTC Lobby
+
+    WB Enter → GL - RBB Entrance
+      Enter - EP4 | GL Floor 6 entrance
+      WB Entry- EP3 | GL Floor 6 high entrance
+      Croc - EP1 | RBB Area Entrance
+      Termite - EP2 | RBB OUTSIDE
+
+    End → GL Pipe Room Scale 150
+      Enter - EP 1 | GL Floor 2 Pipe Room
+
+    Termite → GL Floor 7
+      WB Enter - EP 3 | GL Floor 7 Entrance
+      Enter - EP 1 | GL Gloor 7 (765 note door)
+      Extra EP - EP 2 | GL Floor 7 High Entrance
+
+    Walrus → CCW - Spring
+      Enter - EP 1 | CCW Spring entrance
+      GP Enter - EP 8 | CCW Spring whip crack room Outside
+      Secret at Main - EP 9 | CCW Mumbo spring OUTSIDE
+
+    Croc → GL Floor 2
+      GP Enter - EP 1 | GL Floor 3 Front entrance
+      Bee - EP 2 | GL Floor 3
+
+    Bee → GL CC Entrance
+      Croc - EP 1 | GL - Pipe Room
+      Tunnel - EP 2 | GL Pipe Room CC Entrance
+
+  Robo-City
+    City 10 → Rusty Bucket Bay
+      Entrance - EP16 | RBB - Entrance
+      Underground - EP3 | RBB Propeller Switch Room OUTSIDE
+      SlumsReal - EP1 | RBB Captains Cabin…
+      SlumsFake(Doorway) - EP7 | RBB Funnel Outside
+      SlumsFake(Bridge) - EP6 | RBB TNT room OUTSIDE
+      Oil - EP19 | RBB Anchor Room OUTSIDE
+      Inside Robo1 - EP4 | RBB Kitchen OUTSIDE
+      Highrise Bot - EP10 | RBB Container Room 2 OUTSIDE
+      Highrise Top1 - EP9 | RBB Container Room 1 OUTSIDE
+      Highrise Top2- EP11 | RBB Container Room 3 OUTSIDE
+
+    Slums 4(F) → Floor 6 Water Switch Area
+      Guest Entrance - EP1 | GL water room entrance
+      Slums Real - EP4 | GL Water Room Lowest Entrance
+      Bridge Entrance - EP2 | GL water room (Near CCW entrance)
+      Oil Refinery - EP3 | GL water room (640 Note door)
+
+    Slums 3(R) → GL Floor 1
+      Patron Entrance - EP 1 | GL Floor 1 near note door
+      The Ledge - EP 18 | GL Floor 1
+      Slums Fake - EP 2 | GL Outside Mumbo’s Mountain
+
+    Oil Refinery 4→ Treasure Trove Cove
+      Main Entrance -  EP6 | TTC blubber’s ship top outside
+      Worker Entrance - EP7 | TTC blubber’s ship bottom Outside
+      Real Worker Entrance - EP3 | TTC Sandcastle OUTSIDE
+      Conveyor Belt Left - EP15 | TTC cave leading to lighthouse area
+      Conveyor Belt Right - EP14 | TTC Lighthouse Area
+
+    Highrise 4 → Gobi’s Valley
+      Bottom Floor - EP2 | GV - Jinxy’s Tomb OUTSIDE
+      The Ledge - EP4 | GV Middel Pyramid OUTSIDE
+      Top - EP5 | GV Star pirimid OUTSIDE
+      Top Caged - EP3 | GV Memory Puzzle OUTSIDE
+
+    Inside Robo 3 → GL Floor 5
+      UG Entry - EP 1 | GL Floor 5 Entrance
+      Elevator - EP 2 | GL Floor 5 Entrance
+      Secret Entry - EP 3 | GL Floor 5 Outside Gobi’s Valley
+
+    Underground 3 → Mumbo’s Mountain
+      Falling Entrance - EP1 | MM Outside Mumbo’s Skull
+      Shrine Entrance - EP2 | Ticker’s Tower Outside
+      Walk-in Entrance - EP 3 | MM Ticker’s Tower Top Outside
+
+    Shrine → Ticker’s Tower Change to Rupee’s Room w/ EP 7
+      Only Entrance - EP2 | MM - Ticker’s Tower
+
+    Carried Up → Kitchen
+      Only Entrance - EP1 | RBB Kitchen
+
+  Grand Piano
+    1 - Bubblegloop Swamp
+      Entrance - EP2, | BGS - Entrance
+      Pachinko - EP 4, | BGS right Mr. Vile nostril outside
+      Sidescroller - EP 5, | BGS left Mr. Vile nostril outside
+      Platformer - EP 3, | BGS tanktup Outside
+
+    2 - Inside Clanker + Fallwarp(CC-Main)
+      Entrance - EP1, | CC Hoop room top entrance
+      FallWarp leads back to this room
+
+    3 - RBB - Navigation Room (Mumbo’s Mountain)
+      Entrance - EP1
+
+  What Boat? All use 1 Entry, 1 Warp Except for Main.
+    Main - MMM(Main)
+      Enter - EP1
+      "Start" Position - EP3
+
+    Sandlake - Mumbo's Skull
+      Enter - MMM Mumbo's Skull
+      End - FP Mumbo's Skull
+
+    Maze - Feather Room
+    All White - Egg Room
+    Boss Tunnel- Note Room
+    Boss Room- Bathroom
+    End- Gold Feather Room
+    Defeated- Dining Room

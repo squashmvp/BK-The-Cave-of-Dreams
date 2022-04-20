@@ -1,0 +1,33 @@
+Waterfall SFX
+
+Two structs work together to create this effect.
+The sound is accompanied by the visual effect of
+splashing water. This visual effect and sfx take
+place between these two structs.
+
+One can visualize it like a rope tied tightly at
+two ends. The ends are the structs, the rope is the
+effect.
+
+I do not know if one needs to be on a specific side
+but I always place 2f on the left side and 30 on the 
+right side of where water meets the ground; they can go
+anywhere on a model as far as I can tell. You can only have 
+one within a scene but you can have any many in 
+the game as you would like. (Did not test 5 or more in one game)
+
+Below is the information I used to create the structs.
+Using Banjo's Backpack, it should be easy to tell which number goes where.
+My reference for this information was the big waterfall in Spiral Mountain.
+
+Struct 1
+Object ID: 2f Script: 190c
+b10-b17(In Order): 0, 0, 0, 0, b, 50
+
+Struct 2
+Object ID: 30 Script: 190c
+b10-b17(In Order): 0, 0, 0, 0, b, 60
+
+Step 1- Create 2 Waterfall Sound Emitters from menu.
+Step 2- Replace data in side bar using above information.
+Step 3- Save and Test for visual/audio effect.

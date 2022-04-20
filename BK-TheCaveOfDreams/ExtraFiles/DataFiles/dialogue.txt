@@ -1,0 +1,24 @@
+Only Shows Locations and Object Used.
+Press B to activate *Unless other Conditions are stated*
+
+  Honey = Brentilda (In the Highrise)
+  Mole Hill Fly = Hand Bot (Don't move after being Carried Up)
+  Mole Hill Eggs = Blue Bot in Slums(Blue Bot in the Back of the Room)
+  Mole Hill Talon Trot = Yellow Bot in the Slums(Slums Manager)
+  Mole Hill Note Door = Piano (Next to it's Face)
+  Mole Hill Wonderwing = Stump (Stump on the House, WB End)
+  Mole Hill Wading Boots = Furnace/Kiln (Under Rainguard)
+  Mole Hill Note Door = Inside the Tree(Deleted, replaced with Orange)
+  Mole Hill Spring Jump = Top of Pile of Gold(Right On the Shockspring)
+  Slappa = What Boat Maze (Second Floor, by crumbling Wall and Rostrum) *Walk Up*
+  Napper = What Boat Defeated (Warp on "Defeat") *Walk Up*
+  Gold Feather = Anywhere *Collectible*
+  Egg = Anywhere *Collectible*
+  Red Feather = Anywhere *Collectible*
+  Honeycomb = Anywhere *Collectible*
+  Support Orange = Inside the Tree *Collectible
+  Mumbo = Termite and Bee Areas
+  Extra Life = Anywhere *Collectible*
+  Jinjo = Robo-City *Collectible*
+  Cheato = RC, GP, WB Entrances
+  Gloop = WB Sand Lake *Walk Up*
