@@ -1,3 +1,5 @@
+THE FINAL PATCH IS WITHIN THE FOLDER. THE PATCH MARKED DEMO IS JUST A DEMO.
+
 # BK-The-Cave-of-Dreams
 
 Banjo-Kazooie: The Cave of Dreams
