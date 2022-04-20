@@ -6,6 +6,12 @@ A Bear and a Bird are looking for an Orange.
 
 Thanks for playing this romhack.
 
+You need to have the original rom in order to play this. You take that rom, and 
+you patch it with the xdelta file included in this repository.
+Here's an online patcher-
+https://www.hack64.net/tools/patcher.php
+Contact me if you need assistance.
+
 Notes:
   Make sure to experiment with the controls as much as possible when you begin.
   Especially the camera controls. R is a pretty good button.
