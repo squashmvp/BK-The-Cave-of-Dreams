@@ -11,7 +11,7 @@ Thanks for playing this romhack.
 You need to have the original rom in order to play this. You take that rom, and 
 you patch it with the xdelta file included in this repository.
 Here's an online patcher-
-https://www.hack64.net/tools/patcher.php
+https://patch.wedarobi.com/BK_TheCaveOfDreams
 Contact me if you need assistance.
 
 Notes:
