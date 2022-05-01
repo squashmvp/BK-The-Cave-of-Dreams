@@ -13,15 +13,18 @@ https://patch.wedarobi.com/BK_TheCaveOfDreams
 Contact me if you need assistance.
 
 Notes:
+  Collectibles in Game: 31 Jiggies, 300 Notes, 10 Mumbo Tokens, 12 Honeycombs
+
   Make sure to experiment with the controls as much as possible when you begin.
   Especially the camera controls. R is a pretty good button.
 
   You need 300 notes to access the 50 note door secret. The note doors in Grand
   Piano do not have a requirement.
   
-  Cheato gives you a description of the levels and their whole deal.
+  Cheato gives you a description of the levels and their whole deal. Don't ignore Cheato 
+  please. Cheato does not deserve that.
   
-  If you fall in Grand Piano, don't ground pound so you don't lose your notes.
+  If you fall in Grand Piano 1, don't ground pound or attack so you don't lose your notes.
   
 **Bugs and Stuff**
 Totals Screen does not work(Checklist provided in HTML form), Empty Honeycombs
